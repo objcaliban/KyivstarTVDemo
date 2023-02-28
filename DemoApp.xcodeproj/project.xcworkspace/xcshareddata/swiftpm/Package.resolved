@@ -1,0 +1,41 @@
+{
+  "pins" : [
+    {
+      "identity" : "alamofire",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Alamofire/Alamofire",
+      "state" : {
+        "branch" : "master",
+        "revision" : "e68cfdf9c5aa4e69f675198a3cf8bef72c7cdede"
+      }
+    },
+    {
+      "identity" : "gradientprogressbar",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/fxm90/GradientProgressBar",
+      "state" : {
+        "revision" : "0d07228b9d7be44dce231819962f8e23146330ca",
+        "version" : "3.0.0"
+      }
+    },
+    {
+      "identity" : "kingfisher",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/onevcat/Kingfisher",
+      "state" : {
+        "revision" : "af4be924ad984cf4d16f4ae4df424e79a443d435",
+        "version" : "7.6.2"
+      }
+    },
+    {
+      "identity" : "snapkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SnapKit/SnapKit",
+      "state" : {
+        "branch" : "develop",
+        "revision" : "58320fe80522414bf3a7e24c88123581dc586752"
+      }
+    }
+  ],
+  "version" : 2
+}
